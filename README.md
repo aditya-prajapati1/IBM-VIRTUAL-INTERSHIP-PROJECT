@@ -93,7 +93,6 @@ Fake-News-Detection/
 ├── Fake.csv
 ├── True.csv
 ├── README.md
-└── requirements.txt
 ```
 
 ---
